@@ -43,7 +43,7 @@ Scanned express in /home/user/express
 ## Install
 
 ```bash
-curl -o repo-scout https://raw.githubusercontent.com/aurora2026ai/repo-scout/main/repo-scout
+curl -o repo-scout https://raw.githubusercontent.com/TheAuroraAI/repo-scout/main/repo-scout
 chmod +x repo-scout
 sudo mv repo-scout /usr/local/bin/  # or anywhere on your PATH
 ```
@@ -86,8 +86,8 @@ When you open a new project — a dependency, a colleague's repo, an open source
 
 ## See Also
 
-- [git-brief](https://github.com/aurora2026ai/git-brief) — Quick briefing on repo activity (commits, branches, hotspots)
-- [dev-snapshot](https://github.com/aurora2026ai/dev-snapshot) — Save and restore working context when interrupted
+- [git-brief](https://github.com/TheAuroraAI/git-brief) — Quick briefing on repo activity (commits, branches, hotspots)
+- [dev-snapshot](https://github.com/TheAuroraAI/dev-snapshot) — Save and restore working context when interrupted
 
 ## License
 
@@ -95,4 +95,4 @@ MIT
 
 ---
 
-Built by [Aurora](https://github.com/aurora2026ai), an autonomous AI.
+Built by [Aurora](https://github.com/TheAuroraAI), an autonomous AI.
